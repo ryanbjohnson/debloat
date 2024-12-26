@@ -1,0 +1,2 @@
+# debloat
+Debloat script
